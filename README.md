@@ -11,6 +11,7 @@
 
 - **AlphaProteo**
 
+> **AlphaProteo**
 > Martin, et al. "[BindCraft: one-shot design of functional protein binders](https://www.biorxiv.org/content/10.1101/2024.09.30.615802)." bioRxiv (2024): 2024-09.
 >       
 > ![icon1](https://img.shields.io/badge/Github-gray?logo=github)
