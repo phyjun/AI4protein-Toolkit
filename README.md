@@ -5,14 +5,14 @@ This repository is a collection of deep learning models and tools for protein de
 # New Released Models
 *Deep learning models, tools, pipelines, etc. for protein science, released in the past week, updated 2024-12-31*
 
-> **AlphaProteo**
+> **PepTune**
 > 
-> Zambaldi, Vinicius, et al. "[De novo design of high-affinity protein binders with AlphaProteo.](https://arxiv.org/abs/2409.08022)" arXiv preprint arXiv:2409.08022 (2024).
+> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
 > 
-> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GoogleDeepMind/status/1831710991475777823)
-> [![Blog](https://img.shields.io/badge/Blog-tv_green)](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
-> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/2E6ZqURgR7f6loGW-gv1eA)
-> [![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)]()
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
+> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
 
 
 # Contents
@@ -23,6 +23,10 @@ This repository is a collection of deep learning models and tools for protein de
 - [Reviews](#reviews)
 - [Structure Prediction](#structure-prediction)
 - [Co-design Models](#co-design-models)
+- [ProteinLanguage Models](#proteinlanguage-models)
+  - [Masked Language Models](#masked-language-models)
+  - [Auto-Regressive Models](#auto-regressive-models)
+- [Inverse Folding](#inverse-folding)
 
 
 # Similar Repositories/Platforms
@@ -51,8 +55,7 @@ This repository is a collection of deep learning models and tools for protein de
 # Co-design Models
 > **All Models**
 > 
-> [AlphaProteo](https://arxiv.org/abs/2409.08022)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜[BindCraft](https://github.com/martinpacesa/BindCraft)
-
+> [AlphaProteo](https://arxiv.org/abs/2409.08022)｜[BindCraft](https://github.com/martinpacesa/BindCraft)｜
 
 > **AlphaProteo**
 > 
@@ -63,3 +66,45 @@ This repository is a collection of deep learning models and tools for protein de
 > [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/2E6ZqURgR7f6loGW-gv1eA)
 > ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
 
+
+
+
+
+
+# ProteinLanguage Models
+## Masked Language Models
+
+> **PepTune**
+> 
+> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
+> 
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
+> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
+
+
+> **MAGE**
+> 
+> Wasdin, Perry T., et al. "[Generation of antigen-specific paired heavy-light chain antibody sequences using large language models.](https://doi.org/10.1101/2024.12.20.629482)" bioRxiv (2024): 2024-12.
+> 
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871033877747347535)
+> [![Supplementary information](https://img.shields.io/badge/Supplementary-information-blue?logo=site)
+](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629482/DC1/embed/media-1.pdf)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
+
+
+## Auto-Regressive Models
+
+
+
+
+# Inverse Folding
+
+> **Flexpert**
+> 
+> Kouba, Petr, et al. "[Learning to engineer protein flexibility.](https://arxiv.org/abs/2412.18275)" arXiv preprint arXiv:2412.18275 (2024).
+> 
+> [![Github](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/KoubaPetr/Flexpert)
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871789608985563492)
