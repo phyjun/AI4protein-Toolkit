@@ -15,3 +15,11 @@
 
 ![Blog](https://img.shields.io/badge/Blog-tv_green)
 
+
+
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)
+
+![PyTorch](https://img.shields.io/badge/Py-Torch-red)
+
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+
