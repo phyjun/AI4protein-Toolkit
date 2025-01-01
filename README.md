@@ -58,5 +58,5 @@ This repository is a collection of deep learning models and tools for protein de
 > [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GoogleDeepMind/status/1831710991475777823)
 > [![Blog](https://img.shields.io/badge/Blog-tv_green)](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 > [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/2E6ZqURgR7f6loGW-gv1eA)
-> [![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)]()
+> [![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)](.)
 
