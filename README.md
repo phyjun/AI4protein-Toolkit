@@ -1,6 +1,15 @@
 # AI4Protein Toolkit
-Deep learning models or tools for protein design
-This repository is a collection of deep learning models and tools for protein design.
+
+A comprehensive collection of most popular deep learning models and tools for protein design and engineering. This repository serves as a curated resource for researchers and practitioners in the field of computational protein science.
+
+# Overview
+- 📚 Regularly updated collection of protein design tools and models
+- 🔬 Focus on deep learning approaches for protein engineering
+- 📖 Includes latest research papers, code implementations, and resources
+- 🔄 Weekly updates on newly released models and methodologies
+- 🤝 Community-driven collection of tools and references
+
+This repository aims to bridge the gap between artificial intelligence and protein engineering by providing a centralized hub for cutting-edge tools, models, and research papers in the field.
 
 # New Released Models
 *Deep learning models, tools, pipelines, etc. for protein science, released in the past week, updated 2024-12-31*
@@ -13,10 +22,20 @@ This repository is a collection of deep learning models and tools for protein de
 > [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
 > ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
 
+> **MAGE**
+> 
+> Wasdin, Perry T., et al. "[Generation of antigen-specific paired heavy-light chain antibody sequences using large language models.](https://doi.org/10.1101/2024.12.20.629482)" bioRxiv (2024): 2024-12.
+> 
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871033877747347535)
+> [![Supplementary information](https://img.shields.io/badge/Supplementary-information-blue?logo=site)
+](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629482/DC1/embed/media-1.pdf)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
 
 
 # Contents
 - [AI4Protein Toolkit](#ai4protein-toolkit)
+- [Overview](#overview)
 - [New Released Models](#new-released-models)
 - [Contents](#contents)
 - [Similar Repositories/Platforms](#similar-repositoriesplatforms)
@@ -81,8 +100,6 @@ This repository is a collection of deep learning models and tools for protein de
 > [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
 > [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
 > ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
-
-
 
 > **MAGE**
 > 
