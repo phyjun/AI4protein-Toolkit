@@ -27,27 +27,21 @@ This repository is a collection of deep learning models and tools for protein de
 
 # Similar Repositories/Platforms
 > The following repositories and platforms offer complementary resources for protein design and machine learning applications in protein science. These collections include research papers, tools, methodologies, and comprehensive lists of resources that can be valuable for researchers and practitioners in the field.
-> - [papers for protein design using DL](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
-> - [Machine learning for proteins](https://github.com/yangkky/Machine-learning-for-proteins)
-> - [protein design tools](https://github.com/hefeda/design_tools/blob/main/README.md)
-> - [awesome AI based protein design](https://github.com/opendilab/awesome-AI-based-protein-design)
-> - [Protein Structure With DL](https://github.com/Yang-J-LIN/ProteinStructureWithDL)
+- [papers for protein design using DL](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
+- [Machine learning for proteins](https://github.com/yangkky/Machine-learning-for-proteins)
+- [protein design tools](https://github.com/hefeda/design_tools/blob/main/README.md)
+- [awesome AI based protein design](https://github.com/opendilab/awesome-AI-based-protein-design)
+- [Protein Structure With DL](https://github.com/Yang-J-LIN/ProteinStructureWithDL)
 
 
 # Reviews
 > The selected reviews provide comprehensive overviews of machine learning applications in protein design, covering topics from fundamental structural prediction to advanced generative AI approaches. These papers highlight recent developments, methodologies, and future directions in computational protein engineering.
 
-> Notin, Pascal, et al. "[Machine learning for functional protein design.](https://www.nature.com/articles/s41587-024-02127-0)" Nature Biotechnology 42.2 (2024): 216-228.
-
-> Kortemme, Tanja. "[De novo protein design—From new structures to programmable functions.](https://www.sciencedirect.com/science/article/pii/S0092867423014022)" Cell 187.3 (2024): 526-544.
-
-> Wang, Jue, et al. "[Protein Design Using Structure-Prediction Networks: AlphaFold and RoseTTAFold as Protein Structure Foundation Models.](https://cshperspectives.cshlp.org/content/16/7/a041472.long)" Cold Spring Harb Perspect Biol (2024): a041472.
-
-> Winnifrith, Adam, et al. "[Generative artificial intelligence for de novo protein design.](https://www.sciencedirect.com/science/article/pii/S0959440X24000216)" Current Opinion in Structural Biology 86 (2024): 102794.
-
-> Romero-Romero, et al. "[Exploring the Protein Sequence Space with Global Generative Models.](https://cshperspectives.cshlp.org/content/15/11/a041471.long)" Cold Spring Harb Perspect Biol 15.11 (2023): a041471.
-
-
+- Notin, Pascal, et al. "[Machine learning for functional protein design.](https://www.nature.com/articles/s41587-024-02127-0)" Nature Biotechnology 42.2 (2024): 216-228.
+- Kortemme, Tanja. "[De novo protein design—From new structures to programmable functions.](https://www.sciencedirect.com/science/article/pii/S0092867423014022)" Cell 187.3 (2024): 526-544.
+- Wang, Jue, et al. "[Protein Design Using Structure-Prediction Networks: AlphaFold and RoseTTAFold as Protein Structure Foundation Models.](https://cshperspectives.cshlp.org/content/16/7/a041472.long)" Cold Spring Harb Perspect Biol (2024): a041472.
+- Winnifrith, Adam, et al. "[Generative artificial intelligence for de novo protein design.](https://www.sciencedirect.com/science/article/pii/S0959440X24000216)" Current Opinion in Structural Biology 86 (2024): 102794.
+- Romero-Romero, et al. "[Exploring the Protein Sequence Space with Global Generative Models.](https://cshperspectives.cshlp.org/content/15/11/a041471.long)" Cold Spring Harb Perspect Biol 15.11 (2023): a041471.
 
 # Structure Prediction
 
