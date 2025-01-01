@@ -7,3 +7,14 @@
      - [![Github](https://img.shields.io/badge/Github-gray?logo=github)](https://github.com/martinpacesa/BindCraft)
 
 2. ***AlphaProteo***
+
+
+1. **AlphaProteo**
+
+> Martin, et al. "[BindCraft: one-shot design of functional protein binders](https://www.biorxiv.org/content/10.1101/2024.09.30.615802)." bioRxiv (2024): 2024-09.
+>       
+> ![icon1](https://img.shields.io/badge/Github-gray?logo=github)
+> ![icon2](https://img.shields.io/badge/Website-orange)
+> ![icon3](https://img.shields.io/badge/post-black?logo=X)
+> ![icon4](https://img.shields.io/badge/Supplementary-information-blue?logo=site)
+> ![icon5](https://img.shields.io/badge/Supplementary-blue)
