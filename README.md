@@ -39,9 +39,11 @@ This repository is a collection of deep learning models and tools for protein de
 
 - Notin, Pascal, et al. "[Machine learning for functional protein design.](https://www.nature.com/articles/s41587-024-02127-0)" Nature Biotechnology 42.2 (2024): 216-228.
 - Kortemme, Tanja. "[De novo protein design—From new structures to programmable functions.](https://www.sciencedirect.com/science/article/pii/S0092867423014022)" Cell 187.3 (2024): 526-544.
-- Wang, Jue, et al. "[Protein Design Using Structure-Prediction Networks: AlphaFold and RoseTTAFold as Protein Structure Foundation Models.](https://cshperspectives.cshlp.org/content/16/7/a041472.long)" Cold Spring Harb Perspect Biol (2024): a041472.
-- Winnifrith, Adam, et al. "[Generative artificial intelligence for de novo protein design.](https://www.sciencedirect.com/science/article/pii/S0959440X24000216)" Current Opinion in Structural Biology 86 (2024): 102794.
-- Romero-Romero, et al. "[Exploring the Protein Sequence Space with Global Generative Models.](https://cshperspectives.cshlp.org/content/15/11/a041471.long)" Cold Spring Harb Perspect Biol 15.11 (2023): a041471.
+- Wang, Jue, et al. "[Protein Design Using Structure-Prediction Networks.](https://cshperspectives.cshlp.org/content/16/7/a041472.long)" Cold Spring Harb Perspect Biol (2024): a041472.
+- Winnifrith, Adam, et al. "[Generative artificial intelligence for de novo protein design.](https://www.sciencedirect.com/science/article/pii/S0959440X24000216)"
+- Romero-Romero, et al. "[Exploring the Protein Sequence Space with Global Generative Models.](https://cshperspectives.cshlp.org/content/15/11/a041471.long)"
+
+
 
 # Structure Prediction
 
