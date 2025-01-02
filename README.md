@@ -106,8 +106,7 @@ This repository aims to bridge the gap between artificial intelligence and prote
 > Wasdin, Perry T., et al. "[Generation of antigen-specific paired heavy-light chain antibody sequences using large language models.](https://doi.org/10.1101/2024.12.20.629482)" bioRxiv (2024): 2024-12.
 > 
 > [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871033877747347535)
-> [![Supplementary information](https://img.shields.io/badge/Supplementary-information-blue?logo=site)
-](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629482/DC1/embed/media-1.pdf)
+> [![Supplementary information](https://img.shields.io/badge/Supplementary-information-blue?logo=site)](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629482/DC1/embed/media-1.pdf)
 > ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
 
 
