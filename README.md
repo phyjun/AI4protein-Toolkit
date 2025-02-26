@@ -10,7 +10,7 @@
 
 </details>
 
----
+
 
 # New Released (Updated on 2025/02/25)
 | Name | Reference | Tasks | Links |
@@ -33,7 +33,6 @@
 
 </details>
 
----
 
 # Contents
 0. [New Released](#new-released)
