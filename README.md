@@ -7,17 +7,17 @@ A comprehensive collection of most popular deep learning models and tools for pr
 - 📖 Includes references, github repos, resources, and x-post links...
 - 🤝 Warmly welcome for contributions!
 
-## New Released
-** Updated on 2025/02/25 **
-
-| Name | Type | Reference | Tasks | Links |
-|------|-----------|-------|-------|-------|
-| FAMPNN | Model | Shuai, Richard W., et al. "[Sidechain conditioning and modeling for full-atom protein sequence design with FAMPNN.](https://www.biorxiv.org/content/10.1101/2025.02.13.637498.full.pdf)" bioRxiv (2025): 2025-02. | Inverse Folding, All-Atom| [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/richardshuai/fampnn) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1892929727901597874) |
-
 ## Contents
 - [New Released](#new-released)
 - [Similar Links](#similar-links)
 - [Co-design Models](#co-design-models)
+
+## New Released
+**Updated on 2025/02/25**
+
+| Name | Type | Reference | Tasks | Links |
+|------|-----------|-------|-------|-------|
+| FAMPNN | Model | Shuai, Richard W., et al. "[Sidechain conditioning and modeling for full-atom protein sequence design with FAMPNN.](https://www.biorxiv.org/content/10.1101/2025.02.13.637498.full.pdf)" bioRxiv (2025): 2025-02. | Inverse Folding, All-Atom| [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/richardshuai/fampnn) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1892929727901597874) |
 
 ## Similar Links
 The following repositories and platforms offer complementary resources for protein design and machine learning applications in protein science. These collections include research papers, tools, methodologies, website services, and comprehensive lists of resources that can be valuable for researchers and practitioners in the field.
