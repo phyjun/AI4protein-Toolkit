@@ -1,22 +1,27 @@
 # AI4Protein Toolkit
 
-A comprehensive collection of most popular deep learning models and tools for protein design and engineering. This repository serves as a curated **protein AI tools** for researchers and practitioners in the field of computational protein science.
+<details>
+<summary>A comprehensive collection of most popular deep learning models and tools for protein design and engineering. This repository serves as a curated protein AI tools for researchers and practitioners in the field of computational protein science. </summary>
 
-# Overview
 - 🔄 Weekly updates on newly released AI4Protein tools, reviews, benchmarks, models, pipelines, etc.
 - 🔬 Focus on Artificial Intelligence approaches for protein engineering.
 - 📖 Includes references, github repos, resources, and x-post links...
 - 🤝 Warmly welcome for contributions!
 
-# New Released
-> From 24/02/2025 to 02/03/2025
+</details>
 
+---
+
+# New Released (Updated on 2025/02/25)
 | Name | Reference | Tasks | Links |
 |------|-----------|-------|-------|
 | FAMPNN | Shuai, Richard W., et al. "[Sidechain conditioning and modeling for full-atom protein sequence design with FAMPNN.](https://www.biorxiv.org/content/10.1101/2025.02.13.637498.full.pdf)" bioRxiv (2025): 2025-02. | All-Atom Inverse Folding | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/richardshuai/fampnn) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1892929727901597874) |
 
+
 # Similar Projects
-> The following repositories and platforms offer complementary resources for protein design and machine learning applications in protein science. These collections include research papers, tools, methodologies, website services, and comprehensive lists of resources that can be valuable for researchers and practitioners in the field.
+<details>
+<summary>The following repositories and platforms offer complementary resources for protein design and machine learning applications in protein science. These collections include research papers, tools, methodologies, website services, and comprehensive lists of resources that can be valuable for researchers and practitioners in the field.</summary>
+
 - [Papers for protein design using DL](https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file)
 - [Machine learning for proteins](https://github.com/yangkky/Machine-learning-for-proteins)
 - [Protein design tools](https://github.com/hefeda/design_tools/blob/main/README.md)
@@ -26,6 +31,10 @@ A comprehensive collection of most popular deep learning models and tools for pr
 - [BioLM](https://biolm.ai/ui/solutions-catalog/)
 - [Tamarind](https://app.tamarind.bio/app)
 
+</details>
+
+---
+
 # Contents
 0. [New Released](#new-released)
 1. [Similar Projects](#similar-projects)
@@ -34,6 +43,10 @@ A comprehensive collection of most popular deep learning models and tools for pr
 4. [All-Atom Models](#all-atom-models)
 5. [Backbone Generation](#backbone-generation)
 6. [Inverse Folding](#inverse-folding)
+
+
+
+
 
 ## Structure and Sequence Co-design
 
