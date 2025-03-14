@@ -16,6 +16,20 @@ A comprehensive collection of most popular deep learning models and tools for pr
 
 ### Protein Folding Models
 
+| Name | Reference | Links |
+|------|-----------|-------|
+| AlphaFold3 | Abramson, Josh, et al. "[Accurate structure prediction of biomolecular interactions with AlphaFold 3.](https://www.nature.com/articles/s41586-024-07487-w)" ***Nature*** 630.8016 (2024): 493-500. | [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3) <br> [![Server](https://img.shields.io/badge/Server-blue)](https://golgi.sandbox.google.com/) |
+| Chai-1 | Chai Discovery team, et al. "[Chai-1: Decoding the molecular interactions of life.](https://www.biorxiv.org/content/10.1101/2024.10.10.615955.abstract)" ***BioRxiv*** (2024): 2024-10. | [![GitHub stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chaidiscovery/chai-lab) <br> [![Server](https://img.shields.io/badge/Server-blue)](https://www.chaidiscovery.com/) |
+| Boltz-1 | Wohlwend, Jeremy, et al. "[Boltz-1: Democratizing Biomolecular Interaction Modeling.](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v1)" ***bioRxiv*** (2024): 2024-11. | [![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jwohlwend/boltz)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GabriCorso/status/1858180097016250815) |
+| Protenix | ByteDance AML AI4Science Team, et al. "[Protenix-Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction.](https://www.biorxiv.org/content/10.1101/2025.01.08.631967v1?med=mas)" ***bioRxiv*** (2025): 2025-01. | [![GitHub stars](https://img.shields.io/github/stars/bytedance/Protenix.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bytedance/Protenix) <br> [![Server](https://img.shields.io/badge/Server-blue)](https://protenix-server.com/login) |
+| HelixFold3 | Liu, Lihang, et al. "[Technical report of HelixFold3 for biomolecular structure prediction.](https://arxiv.org/abs/2408.16975)" ***arXiv*** preprint arXiv:2408.16975 (2024). | [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix.svg?style=social&label=Star&maxAge=2592000)](https://github.com/PaddlePaddle/PaddleHelix) <br> [![Server](https://img.shields.io/badge/Server-blue)](https://paddlehelix.baidu.com/) |
+
+
+
+
+
+### Protein Folding Models
+
 | Name | Reference | 
 |------|:----------|
 | AlphaFold3 | Abramson, Josh, et al. "[Accurate structure prediction of biomolecular interactions with AlphaFold 3.](https://www.nature.com/articles/s41586-024-07487-w)" ***Nature*** 630.8016 (2024): 493-500. <br> [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GoogleDeepMind/status/1788223454317097172?lang=en) [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/Th3iqMMTpWOH27X_H3u-Dg) [![Server](https://img.shields.io/badge/Server-blue)](https://golgi.sandbox.google.com/) |
