@@ -21,28 +21,6 @@ A comprehensive collection of most popular deep learning models and tools for pr
 | FAMPNN | Model | Shuai, Richard W., et al. "[Sidechain conditioning and modeling for full-atom protein sequence design with FAMPNN.](https://www.biorxiv.org/content/10.1101/2025.02.13.637498.full.pdf)" bioRxiv (2025): 2025-02. | Inverse Folding| [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/richardshuai/fampnn) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1892929727901597874) |
 
 
-> **PepTune**
-> 
-> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
-> 
-> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
-> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
-> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
-
-
-<details>
-<summary>PepTune</summary>
-
-> **PepTune**
-> 
-> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
-> 
-> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
-> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
-> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
-
-</details>
-
 
 
 ## Similar Links
@@ -69,6 +47,32 @@ The following repositories, platforms, and websites offer complementary resource
 | Chai-1 | Chai Discovery team, et al. "[Chai-1: Decoding the molecular interactions of life.](https://www.biorxiv.org/content/10.1101/2024.10.10.615955.abstract)" ***BioRxiv*** (2024): 2024-10. | [![GitHub stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chaidiscovery/chai-lab)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/joshim5/status/1833183091776721106)<br>[![Server](https://img.shields.io/badge/Server-blue)](https://www.chaidiscovery.com/) |
 | Boltz-1 | Wohlwend, Jeremy, et al. "[Boltz-1: Democratizing Biomolecular Interaction Modeling.](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v1)" ***bioRxiv*** (2024): 2024-11. | [![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jwohlwend/boltz)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GabriCorso/status/1858180097016250815) |
 | HelixFold3 | Liu, Lihang, et al. "[Technical report of HelixFold3 for biomolecular structure prediction.](https://arxiv.org/abs/2408.16975)" ***arXiv*** preprint arXiv:2408.16975 (2024). | [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix.svg?style=social&label=Star&maxAge=2592000)](https://github.com/PaddlePaddle/PaddleHelix)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/iScienceLuvr/status/1830432054179475473)<br>[![Server](https://img.shields.io/badge/Server-blue)](https://paddlehelix.baidu.com/) |
+
+
+
+
+
+> **PepTune**
+> 
+> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
+> 
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
+> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
+
+<details>
+<summary>PepTune</summary>
+
+> **PepTune**
+> 
+> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
+> 
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
+> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
+</details>
 
 
 
