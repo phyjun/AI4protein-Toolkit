@@ -20,6 +20,17 @@ A comprehensive collection of most popular deep learning models and tools for pr
 |------|-----------|-------|-------|-------|
 | FAMPNN | Model | Shuai, Richard W., et al. "[Sidechain conditioning and modeling for full-atom protein sequence design with FAMPNN.](https://www.biorxiv.org/content/10.1101/2025.02.13.637498.full.pdf)" bioRxiv (2025): 2025-02. | Inverse Folding| [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/richardshuai/fampnn) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1892929727901597874) |
 
+
+> **PepTune**
+> 
+> Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
+> 
+> [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
+> [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
+> ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+
+
+
 ## Similar Links
 The following repositories, platforms, and websites offer complementary resources for protein design and machine learning applications in protein science. These collections include research papers, tools, methodologies, website services, and comprehensive lists of resources that can be valuable for researchers and practitioners in the field.
 
