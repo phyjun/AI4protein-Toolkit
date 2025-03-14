@@ -10,6 +10,7 @@ A comprehensive collection of most popular deep learning models and tools for pr
 ## Contents
 - [New Released](#new-released)
 - [Similar Links](#similar-links)
+- [Protein Folding Models (AF3 series)](#protein-folding-models)
 - [Co-design Models](#co-design-models)
 
 ## New Released
@@ -31,6 +32,23 @@ The following repositories, platforms, and websites offer complementary resource
 - [BioLM](https://biolm.ai/ui/solutions-catalog/)
 - [Tamarind](https://app.tamarind.bio/app)
 
+
+
+
+## Protein Folding Models
+
+| Name | Reference | Links |
+|------|-----------|-------|
+| AlphaFold3 | Abramson, Josh, et al. "[Accurate structure prediction of biomolecular interactions with AlphaFold 3.](https://www.nature.com/articles/s41586-024-07487-w)" ***Nature*** 630.8016 (2024): 493-500. | [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GoogleDeepMind/status/1788223454317097172?lang=en)<br>[![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/Th3iqMMTpWOH27X_H3u-Dg)<br>[![Server](https://img.shields.io/badge/Server-blue)](https://golgi.sandbox.google.com/) |
+| Protenix | ByteDance AML AI4Science Team, et al. "[Protenix-Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction.](https://www.biorxiv.org/content/10.1101/2025.01.08.631967v1?med=mas)" ***bioRxiv*** (2025): 2025-01. | [![GitHub stars](https://img.shields.io/github/stars/bytedance/Protenix.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bytedance/Protenix)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/ai4s_protenix/status/1892502011876094356)<br>[![Server](https://img.shields.io/badge/Server-blue)](https://protenix-server.com/login) |
+| Chai-1 | Chai Discovery team, et al. "[Chai-1: Decoding the molecular interactions of life.](https://www.biorxiv.org/content/10.1101/2024.10.10.615955.abstract)" ***BioRxiv*** (2024): 2024-10. | [![GitHub stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chaidiscovery/chai-lab)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/joshim5/status/1833183091776721106)<br>[![Server](https://img.shields.io/badge/Server-blue)](https://www.chaidiscovery.com/) |
+| Boltz-1 | Wohlwend, Jeremy, et al. "[Boltz-1: Democratizing Biomolecular Interaction Modeling.](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v1)" ***bioRxiv*** (2024): 2024-11. | [![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jwohlwend/boltz)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GabriCorso/status/1858180097016250815) |
+| HelixFold3 | Liu, Lihang, et al. "[Technical report of HelixFold3 for biomolecular structure prediction.](https://arxiv.org/abs/2408.16975)" ***arXiv*** preprint arXiv:2408.16975 (2024). | [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix.svg?style=social&label=Star&maxAge=2592000)](https://github.com/PaddlePaddle/PaddleHelix)<br>[![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/iScienceLuvr/status/1830432054179475473)<br>[![Server](https://img.shields.io/badge/Server-blue)](https://paddlehelix.baidu.com/) |
+
+
+
+
+
 ## Co-design Models
 
 | Name          | Type    | Reference                                                                 | Tasks                          | Links                                                                                      |
@@ -44,4 +62,6 @@ The following repositories, platforms, and websites offer complementary resource
 | Multiflow     | Model   | Campbell, Andrew, et al. "[Generative flows on discrete state-spaces: Enabling multimodal flows with applications to protein co-design.](https://arxiv.org/abs/2402.04997)" arXiv preprint arXiv:2402.04997 (2024). | Unconditional Generation, Inverse Folding, Forward Folding | [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/jasonkyuyim/status/1873845089161928888) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jasonkyuyim/multiflow) |
 | CarbonNovo    | Model   | Ren, Milong, Tian Zhu, and Haicang Zhang. "[Carbonnovo: Joint design of protein structure and sequence using a unified energy-based model.](https://openreview.net/forum?id=FSxTEvuFa7&referrer=%5Bthe%20profile%20of%20Milong%20Ren%5D(%2Fprofile%3Fid%3D~Milong_Ren2))" Forty-first International Conference on Machine Learning. 2024. | Unconditional Generation        | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/CarbonMatrixLab/carbonnovo) |
 | ProtPardelle   | Pipeline| Chu, Alexander E., et al. "[An all-atom protein generative model.](https://www.pnas.org/doi/pdf/10.1073/pnas.2311500121)" Proceedings of the National Academy of Sciences 121.27 (2024): e2311500121. | Unconditional & Conditional Generation | [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/alexechu_/status/1661837436551569408) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/ProteinDesignLab/protpardelle) |
+
+
 
