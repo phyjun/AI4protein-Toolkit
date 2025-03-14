@@ -59,8 +59,8 @@ The following repositories, platforms, and websites offer complementary resource
 
 ### Co-design Models
 
-| Name          | Reference                                                                 | Links                                                                                      |
-|---------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Name | Reference | Links |
+|------|-----------|-------|
 | ***Review*** | Wang, Chentong, et al. "[Toward deep learning sequence–structure co-generation for protein design.](https://www.sciencedirect.com/science/article/abs/pii/S0959440X25000363)" Current Opinion in Structural Biology 91 (2025): 103018. | [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1841835713144512900) |
 | Protein Generator | Lisanza, Sidney Lyayuga, et al. "[Multistate and functional protein design using RoseTTAFold sequence space diffusion.](https://www.nature.com/articles/s41587-024-02395-w.pdf)" Nature biotechnology (2024): 1-11. | [![GitHub stars](https://img.shields.io/github/stars/RosettaCommons/protein_generator.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RosettaCommons/protein_generator) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1839119711126388961) |
 | ESM3         | Hayes, Thomas, et al. "[Simulating 500 million years of evolution with a language model.](https://www.science.org/doi/abs/10.1126/science.ads0018)" Science (2025): eads0018. | [![GitHub stars](https://img.shields.io/github/stars/evolutionaryscale/esm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/evolutionaryscale/esm) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/alexrives/status/1879982334814069017) |
