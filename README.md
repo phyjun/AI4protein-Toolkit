@@ -24,7 +24,7 @@ A comprehensive collection of most popular deep learning models and tools for pr
 
 | Name | Reference | Links ｜
 |------|-----------|-------|
-| AlphaFold3 | Abramson, Josh, et al. "[Accurate structure prediction of biomolecular interactions with AlphaFold 3.](https://www.nature.com/articles/s41586-024-07487-w)" ***Nature*** 630.8016 (2024): 493-500. | [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3) <br>(https://mp.weixin.qq.com/s/Th3iqMMTpWOH27X_H3u-Dg) [![Server](https://img.shields.io/badge/Server-blue)](https://golgi.sandbox.google.com/) |
+| AlphaFold3 | Abramson, Josh, et al. "[Accurate structure prediction of biomolecular interactions with AlphaFold 3.](https://www.nature.com/articles/s41586-024-07487-w)" ***Nature*** 630.8016 (2024): 493-500. | [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3) <br> [![Server](https://img.shields.io/badge/Server-blue)](https://golgi.sandbox.google.com/) |
 
 
 
