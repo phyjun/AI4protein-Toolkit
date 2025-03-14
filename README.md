@@ -13,7 +13,7 @@ A comprehensive collection of most popular deep learning models and tools for pr
 - [Protein Folding Models (AF3 series)](#protein-folding-models)
 - [Co-design Models](#co-design-models)
 
-## New Released
+### New Released
 **Updated on 2025/02/25**
 
 | Name | Type | Reference | Tasks | Links |
