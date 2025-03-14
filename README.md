@@ -13,6 +13,15 @@ A comprehensive collection of most popular deep learning models and tools for pr
 - [Protein Folding Models (AF3 series)](#protein-folding-models)
 - [Co-design Models](#co-design-models)
 
+
+### Protein Folding Models
+
+| Name | Reference |
+|------|:----------|
+| AlphaFold3 | Abramson, Josh, et al. "[Accurate structure prediction of biomolecular interactions with AlphaFold 3.](https://www.nature.com/articles/s41586-024-07487-w)" ***Nature*** 630.8016 (2024): 493-500. <br> [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3) [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/GoogleDeepMind/status/1788223454317097172?lang=en) [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/Th3iqMMTpWOH27X_H3u-Dg) [![Server](https://img.shields.io/badge/Server-blue)](https://golgi.sandbox.google.com/) |
+
+
+
 ### New Released
 **Updated on 2025/02/25**
 
