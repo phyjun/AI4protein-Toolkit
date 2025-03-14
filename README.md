@@ -38,7 +38,7 @@ The following repositories, platforms, and websites offer complementary resource
 
 
 
-## Protein Folding Models
+### Protein Folding Models
 
 | Name | Reference | Links |
 |------|-----------|-------|
