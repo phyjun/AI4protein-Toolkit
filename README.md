@@ -59,6 +59,7 @@ The following repositories, platforms, and websites offer complementary resource
 > [![X](https://img.shields.io/badge/post-black?logo=X)](https://x.com/BiologyAIDaily/status/1871465772851331525)
 > [![Wechat](https://img.shields.io/badge/Wechat-gray?logo=wechat)](https://mp.weixin.qq.com/s/f1AZnBFdcv0soHn4iSVKvw)
 > ![Code(N/A)](https://img.shields.io/badge/Code(N%2FA)-salmon)
+> ![![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google-deepmind/alphafold3)
 
 **PepTune**
 Sophia Tang, et al. "[PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion.](https://arxiv.org/abs/2412.17780)" arXiv preprint arXiv:2412.17780 (2024).
